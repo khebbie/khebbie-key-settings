@@ -1,0 +1,26 @@
+<khebbiekey>
+	<sk>
+		<key>outlook</key>
+		<value>
+			c:\khebbiekey\test.html
+		</value>
+	</sk>
+		<sk>
+		<key>GVIM</key>
+		<value>
+			c:\khebbiekey\vim.html
+		</value>
+	</sk>
+
+	<sk>
+		<key>sql server</key>
+		<value>
+			c:\khebbiekey\sql.html
+		</value>
+    <key>visual studio</key>
+		<value>
+			c:\khebbiekey\devenv.html
+		</value>
+
+	</sk>
+</khebbiekey>
